@@ -1,0 +1,35 @@
+img {
+    margin-top: 80px;
+    width: 230px;
+    height: 340px;
+    margin-left: 100px;
+    border: solid black 1px;
+    border-radius: 100%;
+  }
+  
+  .profile {
+    display: flex;
+    gap: 100px;
+  }
+  
+  .profile-details {
+    margin-top: 100px;
+  }
+  
+  .profile-details h1 {
+    margin-bottom: 20px;
+  }
+  
+  .profile-details button {
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .follow {
+    display: flex;
+    gap: 30px;
+  }
+  body{
+    background:radial-gradient(orange,white)
+  }
